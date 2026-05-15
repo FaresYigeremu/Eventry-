@@ -60,7 +60,7 @@ export async function createChapaCheckoutSession({
       last_name: lastName,     // Ideally fetch from Clerk
       tx_ref: tx_ref,
       callback_url: `${baseUrl}/api/webhooks/chapa`, // Your webhook handler
-      return_url: `${baseUrl}/tickets/purchase-success?tx_ref=${tx_ref}`, // Where to send users after payment
+      return_url: `${baseUrl}/tickets/purchase-success`, // Where to send users after payment
       "customization[title]": event.name,
       "customization[description]": event.description || "Ticket Purchase",
       // Metadata to identify the purchase in your webhook
