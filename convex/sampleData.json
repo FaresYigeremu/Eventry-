@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Teddy Afro Live at Millennium Hall",
+    "description": "An iconic night of music with Ethiopia's biggest superstar in the heart of Addis.",
+    "price": 2500.00,
+    "totalTickets": 5000,
+    "location": "Millennium Hall, Addis Ababa", 
+    "eventDate": 1778371200000,
+    "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
+  },
+  {
+    "name": "Ethiopia Premier League: St. George vs. Coffee SC",
+    "description": "Witness the legendary 'Sheger Derby'—the biggest rivalry in Ethiopian football.",
+    "price": 200.00,
+    "totalTickets": 30000,
+    "location": "Addis Ababa Stadium, Addis Ababa",
+    "eventDate": 1778544000000,
+    "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
+  },
+  {
+    "name": "Addis Jazz Festival Night",
+    "description": "Experience the smooth sounds of Ethio-Jazz at the historic African Jazz Village.",
+    "price": 800.00,
+    "totalTickets": 150,
+    "location": "Ghion Hotel, Addis Ababa",
+    "eventDate": 1778716800000,
+    "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+  },
+  {
+    "name": "Habesha Fashion Week 2026",
+    "description": "Showcasing the finest traditional and modern Ethiopian textile designs.",
+    "price": 1500.00,
+    "totalTickets": 500,
+    "location": "Sheraton Addis, Addis Ababa",
+    "eventDate": 1778889600000,
+    "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+  },
+  {
+    "name": "Unity Park VIP Guided Tour",
+    "description": "An exclusive evening tour of the Grand Palace and Unity Park gardens.",
+    "price": 1000.00,
+    "totalTickets": 50,
+    "location": "Unity Park, Addis Ababa",
+    "eventDate": 1778976000000,
+    "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+  },
+  {
+    "name": "Lalibela Cultural Arts Festival",
+    "description": "A celebration of history and art near the world-famous rock-hewn churches.",
+    "price": 500.00,
+    "totalTickets": 200,
+    "location": "Lalibela, Amhara Region",
+    "eventDate": 1729382400000,
+    "userId": "user_2eRTLnPxYQWWbzM8THMTaisFnzE"
+  },
+  {
+    "name": "Gondar Castle Night Exhibition",
+    "description": "A rare night-time light show and history tour of the Fasil Ghebbi royal enclosure.",
+    "price": 450.00,
+    "totalTickets": 100,
+    "location": "Fasil Ghebbi, Gondar",
+    "eventDate": 1722393600000,
+    "userId": "user_2fQUMpNzXSVVczN9UINUbjsGozF"
+  },
+  {
+    "name": "Great Ethiopian Run 2026 - Registration",
+    "description": "Secure your spot for Africa's biggest 10km road race.",
+    "price": 350.00,
+    "totalTickets": 45000,
+    "location": "Meskel Square, Addis Ababa",
+    "eventDate": 1724985600000,
+    "userId": "user_2gPVNqOyYTWWdzO0VJOVcktHpzG"
+  },
+  {
+    "name": "Bale Mountains Trekking Weekend",
+    "description": "A guided group expedition to spot the Ethiopian Wolf and rare endemic wildlife.",
+    "price": 3500.00,
+    "totalTickets": 15,
+    "location": "Bale Mountains National Park",
+    "eventDate": 1720578600000,
+    "userId": "user_2hQWOrPzZUXXezP1WKPWdluIqzH"
+  },
+  {
+    "name": "Traditional Coffee Ceremony Workshop",
+    "description": "Learn the art and ritual of the Ethiopian coffee ceremony from masters.",
+    "price": 300.00,
+    "totalTickets": 30,
+    "location": "Tomoca Coffee, Addis Ababa",
+    "eventDate": 1727222400000,
+    "userId": "user_2iRXPsQAaVYYfAQ2XLQXemvJrzI"
+  }
+]
